@@ -6,5 +6,3 @@
 <a href="https://instagram.com/jensihnow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jensihnow" height="20" width="20" /></a>
 <a href="https://medium.com/@jens.ihnow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jens.ihnow" height="20" width="20" /></a>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jensihnow&show_icons=true" alt="jensihnow" /></p>
